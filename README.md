@@ -33,13 +33,12 @@
 
 ## 🛠️ Tech Stack
 
-    - HTML5: For the core structure and content.
+   - <img src="https://github.com/Shashi1690/Random/blob/main/html.webp" alt="logo" width="25" height="25"> HTML5: For the core structure and content of the website.
 
-    - CSS3: For styling, layout, and animations.
+   - <img src="https://github.com/Shashi1690/Random/blob/main/css.svg" alt="logo" width="25" height="25"> CSS3: For all styling, layout, and animations. The design is custom-coded to be modern and user-friendly without relying on external frameworks.
 
-    - JavaScript: For interactivity and dynamic features.
-
-    - Ionicons: For a rich set of icons used throughout the site.
+   - <img src="https://github.com/Shashi1690/Random/blob/main/Java%20Script.png" alt="logo" width="25" height="25"> JavaScript (ES6+):For interactivity and dynamic features.
+   - <img src="https://github.com/Shashi1690/Random/blob/main/Screenshot%202025-08-15%20142859.png" alt="logo" width="25" height="25">  Ionicons: For a rich set of icons used throughout the site.
 
 ## ⚙️ Getting Started
 
@@ -92,4 +91,5 @@
 
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
 ## This Code is Done by Shashikant Kumar
